@@ -1,4 +1,4 @@
-# 🏏 Beginner Hand Cricket
+#🏏 Beginner Hand Cricket
 
 A simple console-based Hand Cricket game built using Python.
 
