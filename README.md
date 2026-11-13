@@ -1,4 +1,4 @@
-# 🏏 Hand Cricket
+#  Hand Cricket
 
 A console-based Hand Cricket game built with Python where the player competes against the computer.
 
@@ -6,13 +6,13 @@ The game includes a toss, batting and bowling choices, score tracking, and targe
 
 ## Features
 
-* 🪙 Toss system
-* 🏏 Player batting and bowling
-* 🤖 Computer opponent
-* 📊 Score tracking
-* 🎯 Target chase
-* 🏆 Winner detection
-* 🔢 Input validation
+*  Toss system
+*  Player batting and bowling
+* Computer opponent
+*  Score tracking
+*  Target chase
+*  Winner detection
+*  Input validation
 
 ## How the Game Works
 
